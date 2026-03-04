@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Design
 description: ENGRD 2020: Statics Homework Design Problem
-image: /sp26-portfolio-ejhinge/assets/images/IMG_0320.jpg
+
 ---
 
 

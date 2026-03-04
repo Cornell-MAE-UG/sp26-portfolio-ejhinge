@@ -18,4 +18,4 @@ Approach: as shown in the diagram, I set some initial dimensions as 2cm and 1.75
 
 Discussion: this nutcracker has limited usability because it's too long to be practical, but if I had used a less conservative estimate for average comfortable grip strength, the calculated length could be much shorter and more practical.
 
-![]({{ '/sp26-portfolio-ejhinge/assets/images/IMG_0320.jpg' | relative_url }})
+![IMG_0320](https://github.com/user-attachments/assets/024cfdec-1598-4d0c-9968-9ab24afe5951)
